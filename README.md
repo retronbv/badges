@@ -1,6 +1,6 @@
 # badges
-![hello](https://img.shields.io/static/v1?label=Badges%20for&message=you&color=ff5959&style=for-the-badge)
-
+![badges for you](https://img.shields.io/static/v1?label=Badges%20for&message=you&color=ff5959&style=for-the-badge)
+![contributions welcome](https://img.shields.io/static/v1?label=contributions&message=welcome&color=<COLOR>&style=for-the-badge)
 ```md
 [![Scratch Messages](https://img.shields.io/badge/dynamic/json?label=Messages&query=count&url=https%3A%2F%2Fapi.scratch.mit.edu%2Fusers%2Fretronbv%2Fmessages%2Fcount&color=0074aa&style=for-the-badge&logo=scratch&logoColor=fff)](https://scratch.mit.edu/users/retronbv/)
 ```
